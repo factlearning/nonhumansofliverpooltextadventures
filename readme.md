@@ -6,7 +6,7 @@ Text adventures featuring non-humans of Liverpool, created by participants in th
 This page will have a list of links to play each of the stories online soon.
 <BR>
 <H4>Bacteria</H4>
-  <a href=" https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/70d450834e20e8f86951a54b9ff7ec5e383bd01d/bacteria/champion/ecolichampion.html " target="_blank">Bacteria Champion</a>
+  <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/70d450834e20e8f86951a54b9ff7ec5e383bd01d/bacteria/champion/ecolichampion.html" target="_blank">Bacteria Champion</a>
   <H5>Bacteria NPCs</H5>
 <BR>
 <H4>Birds</H4>
