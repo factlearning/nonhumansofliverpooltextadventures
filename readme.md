@@ -9,7 +9,7 @@ This page will have a list of links to play each of the stories online soon.
 <H5>Bacteria Champion</H5>
 <H5>Bacteria NPCs</H5>
 <BR>
-<H2>Birds</H4>
+<H4>Birds</H4>
 <H5>Bird Champion</H5>
 <H5>Bird NPCs</H5>
 <BR>
