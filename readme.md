@@ -7,51 +7,51 @@ This page will have a list of links to play each of the stories online soon.
 <BR>
 <H4>Bacteria</H4>
 <BR>
-<H2>Bacteria Champion</H2>
+<H5>Bacteria Champion</H5>
 <BR>
-<H2>Bacteria NPCs</H2>
-<BR>
-<BR>
-<H2>Birds</H2>
-<BR>
-<H2>Bird Champion</H2>
-<BR>
-<H2>Bird NPCs</H2>
+<H5>Bacteria NPCs</H5>
 <BR>
 <BR>
-<H2>Insects</H2>
+<42>Birds</H4>
 <BR>
-<H2>Insect Champion</H2>
+<H5>Bird Champion</H5>
 <BR>
-<H2>Insect NPCs</H2>
-<BR>
-<BR>
-<H2>Mammals</H2>
-<BR>
-<H2>Mammal Champion</H2>
-<BR>
-<H2>Mammal NPCs</H2>
+<H5>Bird NPCs</H5>
 <BR>
 <BR>
-<H2>Natural features</H2>
+<H4>Insects</H4>
 <BR>
-<H2>Natural features Champion</H2>
+<H5>Insect Champion</H5>
 <BR>
-<H2>Natural features NPCs</H2>
-<BR>
-<BR>
-<H2>Plants</H2>
-<BR>
-<H2>Plants Champion</H2>
-<BR>
-<H2>Plant NPCs</H2>
+<H5>Insect NPCs</H5>
 <BR>
 <BR>
-<H2>Water</H2>
+<H4>Mammals</H4>
 <BR>
-<H2>Water Champion</H2>
+<H5>Mammal Champion</H5>
 <BR>
-<H2>Water NPCs</H2>
+<H5>Mammal NPCs</H5>
+<BR>
+<BR>
+<H4>Natural features</H4>
+<BR>
+<H5>Natural features Champion</H5>
+<BR>
+<H5>Natural features NPCs</H5>
+<BR>
+<BR>
+<H4>Plants</H4>
+<BR>
+<H5>Plants Champion</H5>
+<BR>
+<H5>Plant NPCs</H5>
+<BR>
+<BR>
+<H4>Water</H4>
+<BR>
+<H5>Water Champion</H5>
+<BR>
+<H5>Water NPCs</H5>
 <BR>
 <BR>
 
