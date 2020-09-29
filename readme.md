@@ -14,25 +14,38 @@ This page will have a list of links to play each of the stories online soon.
 <H4>Birds</H4>
   <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/8332a09dc3b7fae54784c8d8aecf9f5e40423df8/birds/champion/birdchampion.html" target="_blank">Bird Champion = Pigeon, Status = needs editing</a> 
   <BR>
-<H5>Bird NPCs</H5>
+NPC Buzzard
+NPC Seagull
+NPC ?
+
 <BR>
 <H4>Insects</H4>
-<H5>Insect Champion</H5>
-<H5>Insect NPCs</H5>
+Champion = Butterfly
+NPC =  bee
+NPC =  ant
+NPC =  fly
 <BR>
 <H4>Mammals</H4>
-<H5>Mammal Champion</H5>
-<H5>Mammal NPCs</H5>
+Champion =  Fox
+NPC =  Dog
+NPC =  Rat
+NPC =  Horse
 <BR>
 <H4>Natural features</H4>
-<H5>Natural features Champion</H5>
-<H5>Natural features NPCs</H5>
+Champion =  River Mersey
+NPC =  Everton Brow
+NPC =  Beach
+NPC =  Quarries
 <BR>
 <H4>Plants</H4>
-<H5>Plants Champion</H5>
-<H5>Plant NPCs</H5>
+Champion =  Tulip
+NPC =  Plane Tree
+NPC =  Nettles
+NPC =  Cabbage
 <BR>
 <H4>Water</H4>
-<H5>Water Champion</H5>
-<H5>Water NPCs</H5>
+Champion =  Frog
+NPC =  cod
+NPC =  crab
+NPC = jellyfish
 
