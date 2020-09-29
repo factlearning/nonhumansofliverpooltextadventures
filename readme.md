@@ -12,7 +12,7 @@ This page will have a list of links to play each of the stories online soon.
   
 <BR>
 <H4>Birds</H4>
-  <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/8332a09dc3b7fae54784c8d8aecf9f5e40423df8/birds/champion/birdchampion.html" target="_blank">Bird Champion = Pigeon, Status = needs editing</a> 
+  <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/8332a09dc3b7fae54784c8d8aecf9f5e40423df8/birds/champion/birdchampion.html" target="_blank">Bird Champion = Pigeon</a>, Status = needs editing
 <BR>
 NPC Buzzard
 <BR>
