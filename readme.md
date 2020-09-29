@@ -12,7 +12,7 @@ This page will have a list of links to play each of the stories online soon.
   
 <BR>
 <H4>Birds</H4>
-  <H6> Bird Champion Status = needs editing</H6>
+  <H6> Bird Champion = Pigeon - Status = needs editing</H6>
   <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/8332a09dc3b7fae54784c8d8aecf9f5e40423df8/birds/champion/birdchampion.html" target="_blank">Bird Champion link</a> 
   <BR>
 <H5>Bird NPCs</H5>
