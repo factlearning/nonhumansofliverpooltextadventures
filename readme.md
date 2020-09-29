@@ -12,7 +12,8 @@ This page will have a list of links to play each of the stories online soon.
   
 <BR>
 <H4>Birds</H4>
-<H5>Bird Champion</H5>
+  <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/377837cd8039549e9a881c99a6f0b4cecb90ae24/birds/champion/birdchampion.html>" target="_blank">Bird Champion</a> 
+  <BR>
 <H5>Bird NPCs</H5>
 <BR>
 <H4>Insects</H4>
