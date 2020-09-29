@@ -40,6 +40,9 @@ NPC =  Horse
 <BR>
 <H4>Natural features</H4>
 Champion =  River Mersey
+  <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/8c9a691c0cb8506f8219fdf5feb2d49aa9e0f99d/naturalfeatures/champion/rivermerseychamp.html" target="_blank">Natural Features Champion - River Mersey</a> 
+
+  
 <BR>
 NPC =  Everton Brow
 <BR>
