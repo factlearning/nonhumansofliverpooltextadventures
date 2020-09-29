@@ -5,7 +5,7 @@ Text adventures featuring non-humans of Liverpool, created by participants in th
 <BR>
 This page will have a list of links to play each of the stories online soon.
 <BR>
-<H2>Bacteria</H2>
+<H4>Bacteria</H4>
 <BR>
 <H2>Bacteria Champion</H2>
 <BR>
