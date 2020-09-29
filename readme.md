@@ -7,8 +7,8 @@ This page will have a list of links to play each of the stories online soon.
 <BR>
 <H4>Bacteria</H4>
   <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/70d450834e20e8f86951a54b9ff7ec5e383bd01d/bacteria/champion/ecolichampion.html" target="_blank">Bacteria Champion - Ecoli</a>
-  BR>
-  <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/14e1a2603e33b2a7c9cea08c895e85ddccd27d85/bacteria/npcs/alienbacterianpc.html" target="_blank">Bacteria NPC #1 Alien Bacteria</a> 
+  <BR>
+  <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/14e1a2603e33b2a7c9cea08c895e85ddccd27d85/bacteria/npcs/alienbacterianpc.html" target="_blank">Bacteria NPC #1 - Photorhabdus luminescens</a> 
   
 <BR>
 <H4>Birds</H4>
