@@ -43,9 +43,9 @@ NPC =  Horse
 
   
 <BR>
-NPC =  Everton Brow
+https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/30dd163f44d9a0ec8bc010b6cccae725b404b1a4/naturalfeatures/npcs/evertonbrownpc.html
 <BR>
-NPC =  Beach
+https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/c4d4f58fefce810bca15925d503420b3cd60c863/naturalfeatures/npcs/beachnpc.html
 <BR>
 NPC =  Quarries
 <BR>
