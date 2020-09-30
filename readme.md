@@ -12,7 +12,7 @@ This page will have a list of links to play each of the stories online soon.
   
 <BR>
 <H4>Birds</H4>
-  <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/8332a09dc3b7fae54784c8d8aecf9f5e40423df8/birds/champion/birdchampion.html" target="_blank">Bird Champion = Pigeon</a>, Status = needs editing
+  <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/8332a09dc3b7fae54784c8d8aecf9f5e40423df8/birds/champion/birdchampion.html" target="_blank">Bird Champion = Pigeon</a>
 <BR>
   <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/fc32cd25fec875e3e228bcd9c7adead219674753/birds/npcs/buzzardnpc.html" target="_blank">NPC Buzzard</a> 
 <BR>
@@ -54,7 +54,7 @@ NPC =  Quarries
 <BR>
 <H4>Plants</H4>
 <BR>
-  <a href="Tulip https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/2f8152a856b75ae8acf3ac5b81efb06b164aa56e/plants/champion/tulipchampion.html" target="_blank">Champion =  Tulip</a> 
+  <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/2f8152a856b75ae8acf3ac5b81efb06b164aa56e/plants/champion/tulipchampion.html" target="_blank">Champion = Tulip</a> 
   
   <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/2f8152a856b75ae8acf3ac5b81efb06b164aa56e/plants/npcs/planetreenpc.html">NPC =  Plane Tree</a> 
 <BR>
