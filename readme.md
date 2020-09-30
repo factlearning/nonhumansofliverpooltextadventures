@@ -14,25 +14,34 @@ This page will have a list of links to play each of the stories online soon.
 <H4>Birds</H4>
   <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/8332a09dc3b7fae54784c8d8aecf9f5e40423df8/birds/champion/birdchampion.html" target="_blank">Bird Champion = Pigeon</a>, Status = needs editing
 <BR>
-NPC Buzzard https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/fc32cd25fec875e3e228bcd9c7adead219674753/birds/npcs/buzzardnpc.html
+  <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/fc32cd25fec875e3e228bcd9c7adead219674753/birds/npcs/buzzardnpc.html" target="_blank">NPC Buzzard</a> 
 <BR>
-NPC Seagull https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/fc32cd25fec875e3e228bcd9c7adead219674753/birds/npcs/seagullnpc.html
-<BR>
+  <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/fc32cd25fec875e3e228bcd9c7adead219674753/birds/npcs/seagullnpc.html" target="_blank">NPC Seagull </a>
+  <BR>
 NPC ?
 <BR>
 <H4>Insects</H4>
-Champion = Butterfly https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/2f8152a856b75ae8acf3ac5b81efb06b164aa56e/insects/champion/butterflychampion.html
+  <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/2f8152a856b75ae8acf3ac5b81efb06b164aa56e/insects/champion/butterflychampion.html" target="_blank">Champion = Butterfly</a>
+  <BR>
+    
+    <a href="NPC =  bee https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/597d8e6bf5a8fd44ae7a12b983974cba122974ec/insects/npcs/beenpc.html" target="_blank">NPC =  bee</a> 
+    
 <BR>
-NPC =  bee https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/597d8e6bf5a8fd44ae7a12b983974cba122974ec/insects/npcs/beenpc.html
+  <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/597d8e6bf5a8fd44ae7a12b983974cba122974ec/insects/npcs/antnpc.html" target="_blank">NPC =  ant</a> 
+ 
 <BR>
-NPC =  ant https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/597d8e6bf5a8fd44ae7a12b983974cba122974ec/insects/npcs/antnpc.html
-<BR>
-NPC =  fly https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/f7bb5a8a34ea704b9a5618936fff5daaf25be07a/insects/npcs/flynpc.html
+  <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/f7bb5a8a34ea704b9a5618936fff5daaf25be07a/insects/npcs/flynpc.html" target="_blank">NPC = fly</a> 
+  
+ 
 <BR>
 <H4>Mammals</H4>
-Champion =  Fox https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/f7bb5a8a34ea704b9a5618936fff5daaf25be07a/mammals/champion/foxchampion.html
+  
+  <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/f7bb5a8a34ea704b9a5618936fff5daaf25be07a/mammals/champion/foxchampion.html" target="_blank">Champion =  Fox</a> 
+  
 <BR>
-NPC =  Dog https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/f7bb5a8a34ea704b9a5618936fff5daaf25be07a/mammals/npcs/dognpc.html
+  
+  <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/f7bb5a8a34ea704b9a5618936fff5daaf25be07a/mammals/npcs/dognpc.html" target="_blank">NPC = Dog</a> 
+
 <BR>
 NPC =  Rat https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/f7bb5a8a34ea704b9a5618936fff5daaf25be07a/mammals/npcs/ratnpc.html
 <BR>
