@@ -47,7 +47,6 @@ NPC ?
 NPC =  Quarries
 <BR>
 <H4>Plants</H4>
-<BR>
   <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/2f8152a856b75ae8acf3ac5b81efb06b164aa56e/plants/champion/tulipchampion.html" target="_blank">Champion = Tulip</a> 
 <BR>
   <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/2f8152a856b75ae8acf3ac5b81efb06b164aa56e/plants/npcs/planetreenpc.html">NPC =  Plane Tree</a> 
