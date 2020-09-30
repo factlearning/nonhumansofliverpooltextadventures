@@ -9,7 +9,6 @@ This page will have a list of links to play each of the stories online soon.
   <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/70d450834e20e8f86951a54b9ff7ec5e383bd01d/bacteria/champion/ecolichampion.html" target="_blank">Bacteria Champion - Ecoli</a>
   <BR>
   <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/14e1a2603e33b2a7c9cea08c895e85ddccd27d85/bacteria/npcs/alienbacterianpc.html" target="_blank">Bacteria NPC #1 - Photorhabdus luminescens</a> 
-  
 <BR>
 <H4>Birds</H4>
   <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/8332a09dc3b7fae54784c8d8aecf9f5e40423df8/birds/champion/birdchampion.html" target="_blank">Bird Champion = Pigeon</a>
@@ -28,13 +27,9 @@ NPC ?
   <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/597d8e6bf5a8fd44ae7a12b983974cba122974ec/insects/npcs/antnpc.html" target="_blank">NPC =  ant</a> 
 <BR>
   <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/f7bb5a8a34ea704b9a5618936fff5daaf25be07a/insects/npcs/flynpc.html" target="_blank">NPC = fly</a> 
-  
- 
 <BR>
 <H4>Mammals</H4>
-  
   <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/f7bb5a8a34ea704b9a5618936fff5daaf25be07a/mammals/champion/foxchampion.html" target="_blank">Champion =  Fox</a> 
-  
 <BR>
   <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/f7bb5a8a34ea704b9a5618936fff5daaf25be07a/mammals/npcs/dognpc.html" target="_blank">NPC = Dog</a> 
 <BR>
@@ -47,7 +42,6 @@ NPC ?
 <BR>
 <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/30dd163f44d9a0ec8bc010b6cccae725b404b1a4/naturalfeatures/npcs/evertonbrownpc.html">Everton Brow NPC</a> 
 <BR>
-  
   <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/c4d4f58fefce810bca15925d503420b3cd60c863/naturalfeatures/npcs/beachnpc.html" target="_blank">The Beach NPC</a>
   <BR>
 NPC =  Quarries
@@ -55,7 +49,7 @@ NPC =  Quarries
 <H4>Plants</H4>
 <BR>
   <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/2f8152a856b75ae8acf3ac5b81efb06b164aa56e/plants/champion/tulipchampion.html" target="_blank">Champion = Tulip</a> 
-  
+<BR>
   <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/2f8152a856b75ae8acf3ac5b81efb06b164aa56e/plants/npcs/planetreenpc.html">NPC =  Plane Tree</a> 
 <BR>
   <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/2f8152a856b75ae8acf3ac5b81efb06b164aa56e/plants/npcs/nettlesnpc.html" target="_blank">NPC =  Nettles</a> 
@@ -69,6 +63,5 @@ NPC =  Quarries
 <BR>
   <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/f5ecda411cd47cc7df6984d7a990f5e09467189c/water/npcs/crabnpc.html" target="_blank">Crab NPC</a> 
 <BR>
-  <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/c38cfbfe19ab53516b94b72544db6ba640139874/water/npcs/jellyfishnpc.html
-" target="_blank">NPC = jellyfish </a> 
+  <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/c38cfbfe19ab53516b94b72544db6ba640139874/water/npcs/jellyfishnpc.html" target="_blank">NPC = jellyfish </a> 
 
