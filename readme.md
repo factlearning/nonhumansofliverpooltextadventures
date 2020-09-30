@@ -60,7 +60,7 @@ NPC =  Quarries
 <BR>
   <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/2f8152a856b75ae8acf3ac5b81efb06b164aa56e/plants/npcs/nettlesnpc.html" target="_blank">NPC =  Nettles</a> 
 <BR>
-NPC =  Cabbage https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/2f8152a856b75ae8acf3ac5b81efb06b164aa56e/plants/npcs/cabbagenpc.html
+  <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/2f8152a856b75ae8acf3ac5b81efb06b164aa56e/plants/npcs/cabbagenpc.html" target="_blank">NPC =  Cabbage </a>
 <BR>
 <H4>Water</H4>
   <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/2f8152a856b75ae8acf3ac5b81efb06b164aa56e/water/champion/frogchampion.html" target="_blank">Champion = Frog</a> 
