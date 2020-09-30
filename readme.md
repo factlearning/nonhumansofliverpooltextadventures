@@ -38,9 +38,9 @@ NPC ?
 <BR>
   <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/f7bb5a8a34ea704b9a5618936fff5daaf25be07a/mammals/npcs/dognpc.html" target="_blank">NPC = Dog</a> 
 <BR>
-NPC =  Rat https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/f7bb5a8a34ea704b9a5618936fff5daaf25be07a/mammals/npcs/ratnpc.html
+  <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/f7bb5a8a34ea704b9a5618936fff5daaf25be07a/mammals/npcs/ratnpc.html" target="_blank">NPC =  Rat </a> 
 <BR>
-NPC =  Horse https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/f7bb5a8a34ea704b9a5618936fff5daaf25be07a/mammals/npcs/horsenpc.html
+  <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/f7bb5a8a34ea704b9a5618936fff5daaf25be07a/mammals/npcs/horsenpc.html" target="_blank">NPC =  Horse</a> 
 <BR>
 <H4>Natural features</H4>
 <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/c4d4f58fefce810bca15925d503420b3cd60c863/naturalfeatures/champion/rivermerseychamp.html" target="_blank">Natural Features Champion - River Mersey</a> 
@@ -64,7 +64,6 @@ NPC =  Cabbage https://rawcdn.githack.com/factlearning/nonhumansofliverpooltexta
 <BR>
 <H4>Water</H4>
   <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/2f8152a856b75ae8acf3ac5b81efb06b164aa56e/water/champion/frogchampion.html" target="_blank">Champion = Frog</a> 
-Champion =  Frog 
 <BR>
   <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/f5ecda411cd47cc7df6984d7a990f5e09467189c/water/npcs/codnpc1.html" target="_blank">Cod NPC</a> 
 <BR>
