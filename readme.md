@@ -23,20 +23,20 @@ NPC ?
 <H4>Insects</H4>
 Champion = Butterfly
 <BR>
-NPC =  bee
+NPC =  bee https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/597d8e6bf5a8fd44ae7a12b983974cba122974ec/insects/npcs/beenpc.html
 <BR>
-NPC =  ant
+NPC =  ant https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/597d8e6bf5a8fd44ae7a12b983974cba122974ec/insects/npcs/antnpc.html
 <BR>
-NPC =  fly
+NPC =  fly https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/f7bb5a8a34ea704b9a5618936fff5daaf25be07a/insects/npcs/flynpc.html
 <BR>
 <H4>Mammals</H4>
-Champion =  Fox
+Champion =  Fox https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/f7bb5a8a34ea704b9a5618936fff5daaf25be07a/mammals/champion/foxchampion.html
 <BR>
-NPC =  Dog
+NPC =  Dog https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/f7bb5a8a34ea704b9a5618936fff5daaf25be07a/mammals/npcs/dognpc.html
 <BR>
-NPC =  Rat
+NPC =  Rat https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/f7bb5a8a34ea704b9a5618936fff5daaf25be07a/mammals/npcs/ratnpc.html
 <BR>
-NPC =  Horse
+NPC =  Horse https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/f7bb5a8a34ea704b9a5618936fff5daaf25be07a/mammals/npcs/horsenpc.html
 <BR>
 <H4>Natural features</H4>
 <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/c4d4f58fefce810bca15925d503420b3cd60c863/naturalfeatures/champion/rivermerseychamp.html" target="_blank">Natural Features Champion - River Mersey</a> 
