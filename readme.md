@@ -10,7 +10,7 @@ Text adventures featuring non-humans of Liverpool, created by participants in th
   Right click (or press and hold if you are on a mobile device) & select <B>'save link as'</B> to download the .html file. 
   <H4>To edit your text adventure</H4>
   <img src="https://github.com/factlearning/nonhumansofliverpooltextadventures/blob/master/images/twineuseitonline.png" alt="twine use it online">
-  Go to <a href="https://twinery.org/2" target="_blank">Twine 2</a> in the top right hand corner of the page click '
+  Go to <a href="https://twinery.org/2" target="_blank">Twine 2</a> in the top right hand corner of the page click <B>'use it online'</B>
   <BR>
  <img src="https://github.com/factlearning/nonhumansofliverpooltextadventures/blob/master/images/twineimportfromfile.png" alt="twine import from file">
   On the right hand side of the starting page you should see the option to <B>'import stories from file'</B> click that & upload the .html file.
