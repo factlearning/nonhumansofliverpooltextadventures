@@ -10,7 +10,6 @@ Text adventures featuring non-humans of Liverpool, created by participants in th
 </ul> 
 <BR>
 <BR>
-  <BR>
   <H4>To download one of your text adventures</H4>
   Look for your text adventure in the folders above, click on the .html file e.g. <i>'rivermerseychamp.html' </i>
   <BR>
