@@ -32,6 +32,7 @@ Text adventures featuring non-humans of Liverpool, created by participants in th
  <BR>
 1) Build the world of your folk - Help players to imagine the lives of your folk & how they experience Liverpool.
  <BR>
+ <BR>
 2) Inspire people to create markers for less obvious non humans in your folk. We probably don't want a map that is just 1000's of cats. Your NPC can talk about other types of non-humans they encounter.
  <BR>
 Introduce players to the main types of sub-folk within your folk.
