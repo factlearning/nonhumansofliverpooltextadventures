@@ -76,7 +76,7 @@ Players can use these conflicts as inspiration for more specific & believable pr
 <BR>
   <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/fc32cd25fec875e3e228bcd9c7adead219674753/birds/npcs/buzzardnpc.html" target="_blank">NPC Buzzard</a> 
 <BR>
-  <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/fc32cd25fec875e3e228bcd9c7adead219674753/birds/npcs/seagullnpc.html" target="_blank">NPC Seagull </a>
+  <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/47f91c277e5c0e73f147f6d6422b25c4f673a491/birds/npcs/seagullnpc.html" target="_blank">NPC Seagull </a>
   <BR>
 NPC ?
 <BR>
