@@ -6,6 +6,7 @@ Text adventures featuring non-humans of Liverpool, created by participants in th
   This page includes
    <ul>
   <li>Instructions to download and edit your text adventures from the folders above</li>
+  <li>Tips for writing good Folk Champion & NPC text adventures</li>
   <li>Links to play your text adventures & feedback to finnish/improve them</li>
 </ul> 
 <BR>
