@@ -28,11 +28,11 @@ Text adventures featuring non-humans of Liverpool, created by participants in th
   <BR>
   <BR>
     <H4>Tips for writing your Folk Champion</H4>
-    Describe what the folk champion looks like and how they act as you talk to them.
+    1) Describe what the folk champion looks like and how they act as you talk to them.
     <BR>
-    Your text adventure should be mostly dialogue in which you read what the folk champion says to you and then choose what to say back.
+    2) Your text adventure should be mostly dialogue in which you read what the folk champion says to you and then choose what to say back.
       <BR>
-    We want the player to really want to be part of your folk, so this is your chance to help the player imagine that they could be in your folk and to convince them that your Folk is going to be the one that will win the current Tournament.
+    3) We want the player to really want to be part of your folk, so this is your chance to help the player imagine that they could be in your folk and to convince them that your Folk is going to be the one that will win the current Tournament.
         <BR>
           <BR>
    <H4>Tips for writing a good NPC text adventure</H4>
