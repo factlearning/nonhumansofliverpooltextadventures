@@ -25,6 +25,33 @@ Text adventures featuring non-humans of Liverpool, created by participants in th
   <BR>
    Send your edited .html file to Neil, Jenny or Carlos & we will upload it to this site.
   <BR>
+  <BR>
+   <H4>Tips for writing a good NPC text adventure</H4>
+    <BR>
+    A good NPC should…
+ <BR>
+1) Build the world of your folk - Help players to imagine the lives of your folk & how they experience Liverpool.
+ <BR>
+2) Inspire people to create markers for less obvious non humans in your folk. We probably don't want a map that is just 1000's of cats. Your NPC can talk about other types of non-humans they encounter.
+ <BR>
+Introduce players to the main types of sub-folk within your folk.
+e.g. If your folk are mammals, then your sub folk might be
+   <ul>
+  <li>Nocturnal mammals</li>
+  <li>Mammals that live underground</li>
+  <li> Mammals that work for humans</li>
+</ul> 
+ <BR>
+3) Highlight ongoing conflicts between humans and non-human folk in Liverpool,
+E.g.
+   <ul>
+<li>pollution</li>
+<li>property conflicts</li>
+<li>human-initiated exploitation</li>
+<li>'collateral damage' from industry/commerce</li>
+     </ul> 
+ <BR>
+Players can use these conflicts as inspiration for more specific & believable problems in their markers. 
       <BR>
       <BR>
 <H4>Bacteria</H4>
