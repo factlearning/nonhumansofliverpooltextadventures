@@ -33,8 +33,10 @@ Text adventures featuring non-humans of Liverpool, created by participants in th
     2) Your text adventure should be mostly dialogue in which you read what the folk champion says to you and then choose what to say back.
       <BR>
     3) We want the player to really want to be part of your folk, so this is your chance to help the player imagine that they could be in your folk and to convince them that your Folk is going to be the one that will win the current Tournament.
+      <BR>
+        4) At the end of the story, if the player chooses to join your folk, the champion should explain how to play the game in their own words.
         <BR>
-          <BR>
+        <BR>
    <H4>Tips for writing a good NPC text adventure</H4>
    <BR>
     A good NPC should…
