@@ -99,7 +99,7 @@ NPC ?
   <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/f7bb5a8a34ea704b9a5618936fff5daaf25be07a/mammals/npcs/horsenpc.html" target="_blank">NPC =  Horse</a> 
 <BR>
 <H4>Natural features</H4>
-<a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/c4d4f58fefce810bca15925d503420b3cd60c863/naturalfeatures/champion/rivermerseychamp.html" target="_blank">Natural Features Champion - River Mersey</a> 
+<a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/a717111c3ad24c84dddc705a29fb118aa4f53548/naturalfeatures/npcs/rivermerseynpc.html" target="_blank">Natural Features Champion - River Mersey</a> 
 <BR>
 <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/ef4f3879bd5715fcfb1af2a5e548dc382c5a4d86/naturalfeatures/npcs/evertonbrownpc.html">Everton Brow NPC</a> 
 <BR>
