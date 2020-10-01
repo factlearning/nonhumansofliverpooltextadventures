@@ -90,7 +90,7 @@ NPC ?
   <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/f7bb5a8a34ea704b9a5618936fff5daaf25be07a/insects/npcs/flynpc.html" target="_blank">NPC = fly</a> 
 <BR>
 <H4>Mammals</H4>
-  <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/f7bb5a8a34ea704b9a5618936fff5daaf25be07a/mammals/champion/foxchampion.html" target="_blank">Champion =  Fox</a> 
+  <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/817b05f2479929cdfb8f6cf428c72f0b7e07fed1/mammals/champion/foxchampion.html" target="_blank">Champion =  Fox</a> 
 <BR>
   <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/f7bb5a8a34ea704b9a5618936fff5daaf25be07a/mammals/npcs/dognpc.html" target="_blank">NPC = Dog</a> 
 <BR>
