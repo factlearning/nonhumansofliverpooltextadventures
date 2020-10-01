@@ -8,8 +8,9 @@ Text adventures featuring non-humans of Liverpool, created by participants in th
   <li>Instructions to download and edit your text adventures from the folders above</li>
   <li>Links to play your text adventures & feedback to finnish/improve them</li>
 </ul> 
-  
 <BR>
+<BR>
+  <BR>
   <H4>To download one of your text adventures</H4>
   Look for your text adventure in the folders above, click on the .html file e.g. <i>'rivermerseychamp.html' </i>
   <BR>
@@ -19,13 +20,14 @@ Text adventures featuring non-humans of Liverpool, created by participants in th
   Go to <a href="https://twinery.org/2" target="_blank">Twine 2</a> in the top right hand corner of the page click <B>'use it online'</B>
   <BR>
   <BR>
+    <BR>
  <img src="https://github.com/factlearning/nonhumansofliverpooltextadventures/blob/master/images/twineimportfromfile.png" alt="twine import from file">
   On the right hand side of the starting page you should see the option to <B>'import stories from file'</B> click that & upload the .html file.
   <BR>
    Send your edited .html file to Neil, Jenny or Carlos & we will upload it to this site.
   <BR>
-      
-      
+      <BR>
+      <BR>
 <H4>Bacteria</H4>
   <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/70d450834e20e8f86951a54b9ff7ec5e383bd01d/bacteria/champion/ecolichampion.html" target="_blank">Bacteria Champion - Ecoli</a>
   <BR>
