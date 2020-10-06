@@ -109,8 +109,8 @@ NPC ?
 <BR>
   <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/337e2ce610314ac2ab6f10542bdac0d3b99c2602/naturalfeatures/npcs/beachnpc.html" target="_blank">NPC = The Beach</a>
   <BR>
-NPC =  Quarries
-<BR>
+    <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/0f5609051614cea739d78e309d7d1af502a24e7f/naturalfeatures/npcs/quarrynaturalfeaturenpc.html" target="_blank">NPC =  Quarries</a>
+    <BR>
 <H4>Plants</H4>
   <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/2f8152a856b75ae8acf3ac5b81efb06b164aa56e/plants/champion/tulipchampion.html" target="_blank">Champion = Tulip</a> 
 <BR>
