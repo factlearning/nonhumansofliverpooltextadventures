@@ -72,7 +72,7 @@ Players can use these conflicts as inspiration for more specific & believable pr
   <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/14e1a2603e33b2a7c9cea08c895e85ddccd27d85/bacteria/npcs/alienbacterianpc.html" target="_blank">Bacteria NPC #1 - Photorhabdus luminescens</a> 
 <BR>
 <H4>Birds</H4>
-  <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/8332a09dc3b7fae54784c8d8aecf9f5e40423df8/birds/champion/birdchampion.html" target="_blank">Bird Champion = Pigeon</a>
+  <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/bef361f39e0bb17497a48b4e8b91aad004c30f58/birds/champion/pigeon_champion_06_10_20.html" target="_blank">Bird Champion = Pigeon</a>
 <BR>
   <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/fc32cd25fec875e3e228bcd9c7adead219674753/birds/npcs/buzzardnpc.html" target="_blank">NPC Buzzard</a> 
 <BR>
