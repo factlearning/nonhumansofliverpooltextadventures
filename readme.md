@@ -103,7 +103,7 @@ Players can use these conflicts as inspiration for more specific & believable pr
   <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/f7bb5a8a34ea704b9a5618936fff5daaf25be07a/mammals/npcs/horsenpc.html" target="_blank">NPC =  Horse</a> 
 <BR>
 <H4>Natural features</H4>
-<a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/b1fa5fc96fb743f1083072e279eba20d9ef09a0d/naturalfeatures/npcs/rivermersey2npc.html" target="_blank">Champion = River Mersey</a> 
+<a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/7edd77d31d2ac6497734c204676220f49f56382a/naturalfeatures/champion/rivermerseychamp.html" target="_blank">Champion = River Mersey</a> 
 <BR>
   <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/b0826c3797c67052b03a7f630ddf97cb29befb78/naturalfeatures/npcs/rivermerseynpc.html" target="_blank">NPC = The River Mersey</a>
   
