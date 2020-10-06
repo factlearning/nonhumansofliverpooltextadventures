@@ -105,6 +105,9 @@ Players can use these conflicts as inspiration for more specific & believable pr
 <H4>Natural features</H4>
 <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/b1fa5fc96fb743f1083072e279eba20d9ef09a0d/naturalfeatures/npcs/rivermersey2npc.html" target="_blank">Champion = River Mersey</a> 
 <BR>
+  <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/b0826c3797c67052b03a7f630ddf97cb29befb78/naturalfeatures/npcs/rivermerseynpc.html" target="_blank">NPC = The River Mersey</a>
+  
+  <BR>
 <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/ef4f3879bd5715fcfb1af2a5e548dc382c5a4d86/naturalfeatures/npcs/evertonbrownpc.html">NPC = Everton Brow</a> 
 <BR>
   <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/337e2ce610314ac2ab6f10542bdac0d3b99c2602/naturalfeatures/npcs/beachnpc.html" target="_blank">NPC = The Beach</a>
