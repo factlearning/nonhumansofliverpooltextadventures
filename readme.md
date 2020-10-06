@@ -81,6 +81,10 @@ Players can use these conflicts as inspiration for more specific & believable pr
 NPC ?
 <BR>
 <H4>Insects</H4>
+  
+  <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/c6a9d8ed5cbf2c51d69025d10243fa40c5229d1d/insects/champion/butterfly_champion_edit_01.html" target="_blank">Champion = Butterfly edit from Mon 5th Oct</a>
+  <BR>
+  
   <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/2f8152a856b75ae8acf3ac5b81efb06b164aa56e/insects/champion/butterflychampion.html" target="_blank">Champion = Butterfly</a>
   <BR>
       <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/597d8e6bf5a8fd44ae7a12b983974cba122974ec/insects/npcs/beenpc.html" target="_blank">NPC = bee</a>
