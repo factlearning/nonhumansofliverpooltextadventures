@@ -72,13 +72,15 @@ Players can use these conflicts as inspiration for more specific & believable pr
   <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/14e1a2603e33b2a7c9cea08c895e85ddccd27d85/bacteria/npcs/alienbacterianpc.html" target="_blank">Bacteria NPC #1 - Photorhabdus luminescens</a> 
 <BR>
 <H4>Birds</H4>
-  <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/bef361f39e0bb17497a48b4e8b91aad004c30f58/birds/champion/pigeon_champion_06_10_20.html" target="_blank">Bird Champion = Pigeon</a>
+  <a href="https://github.com/factlearning/nonhumansofliverpooltextadventures/blob/master/birds/champion/pigeon_champion_07_10_20.html" target="_blank">Bird Champion = Pigeon</a>
 <BR>
   <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/fc32cd25fec875e3e228bcd9c7adead219674753/birds/npcs/buzzardnpc.html" target="_blank">NPC Buzzard</a> 
 <BR>
-  <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/b528c596d62ff286f8f1507c203831effba3e392/birds/npcs/seagullnpc.html" target="_blank">NPC Seagull </a>
+  <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/5f92a6b5bfb6b3b1dc8ff0798dca0e818cf972dd/birds/npcs/seagull_npc.html" target="_blank">NPC Seagull </a>
   <BR>
-<a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/58df428235f5d4195f2042c1ceef83c75e3c4432/birds/npcs/blackbirdnpc.html" target="_blank">NPC Blackbird </a>
+<a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/58f58d2d4da1fe6a684c6bcb533f4eb8ab2ebb25/birds/npcs/blackbird_npc.html" target="_blank">NPC Blackbird </a>
+<BR>    
+<a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/2cc26cc68468bc68c146bdce46c2a15a737aafc0/birds/npcs/owl_npc__07_10_20.html" target="_blank">NPC Owl </a> 
 <BR>
 <H4>Insects</H4>
   
