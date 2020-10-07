@@ -12,9 +12,19 @@ Text adventures featuring non-humans of Liverpool, created by participants in th
 <BR>
 <BR>
   <H4>To download one of your text adventures</H4>
-  Look for your text adventure in the folders above, click on the .html file e.g. <i>'rivermerseychamp.html' </i>
+  1) Scroll down this page to the links for the participants text adventures and click to play the text adventure you want to edit. If the text adventure plays, then download the html file - either ‘file/save page as’ or right click ‘Save page as’
   <BR>
-  Right click (or press and hold if you are on a mobile device) & select <B>'save link as'</B> to download the .html file. 
+  2) Go to https://twinery.org & select ‘use it online’ from the top right corner
+  <BR>
+  3) Select ‘import from file’ from the menu on the right hand side
+  <BR>
+  4) Click on the newly added story to edit it
+  <BR>
+  5) Don’t wipe your browser history while you are editing a twine story - that is where the story is saved.
+  <BR>
+  6) When you have edited the story, click on the up arrow next to the story name in the bottom left hand corner & ‘publish to file’ 
+ <BR>
+ <BR>
   <H4>To edit your text adventure</H4>
   <img src="https://github.com/factlearning/nonhumansofliverpooltextadventures/blob/master/images/twineuseitonline.png" alt="twine use it online">
   Go to <a href="https://twinery.org/2" target="_blank">Twine 2</a> in the top right hand corner of the page click <B>'use it online'</B>
