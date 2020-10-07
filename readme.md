@@ -112,13 +112,13 @@ Players can use these conflicts as inspiration for more specific & believable pr
     <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/f60a093283c7a0e2374f8b12e9671736f3d7b718/naturalfeatures/npcs/quarrynaturalfeaturenpc.html" target="_blank">NPC = The Quarry</a>
     <BR>
 <H4>Plants</H4>
-  <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/2f8152a856b75ae8acf3ac5b81efb06b164aa56e/plants/champion/tulipchampion.html" target="_blank">Champion = Tulip</a> 
+  <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/a4e9694be85b5b852a76ff43ac3e717da70f5a87/plants/champion/tulipchampion.html" target="_blank">Champion = Tulip</a> 
 <BR>
   <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/2f8152a856b75ae8acf3ac5b81efb06b164aa56e/plants/npcs/planetreenpc.html">NPC =  Plane Tree</a> 
 <BR>
-  <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/2f8152a856b75ae8acf3ac5b81efb06b164aa56e/plants/npcs/nettlesnpc.html" target="_blank">NPC =  Nettles</a> 
+  <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/a4e9694be85b5b852a76ff43ac3e717da70f5a87/plants/npcs/planetreenpc.html" target="_blank">NPC =  Nettles</a> 
 <BR>
-  <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/2f8152a856b75ae8acf3ac5b81efb06b164aa56e/plants/npcs/cabbagenpc.html" target="_blank">NPC =  Cabbage </a>
+  <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/a4e9694be85b5b852a76ff43ac3e717da70f5a87/plants/npcs/cabbagenpc.html" target="_blank">NPC =  Cabbage </a>
 <BR>
 <H4>Water</H4>
   <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/2f8152a856b75ae8acf3ac5b81efb06b164aa56e/water/champion/frogchampion.html" target="_blank">Champion = Frog</a> 
