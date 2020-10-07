@@ -88,7 +88,7 @@ Players can use these conflicts as inspiration for more specific & believable pr
 <BR>
   <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/597d8e6bf5a8fd44ae7a12b983974cba122974ec/insects/npcs/antnpc.html" target="_blank">NPC =  ant</a> 
 <BR>
-  <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/f7bb5a8a34ea704b9a5618936fff5daaf25be07a/insects/npcs/flynpc.html" target="_blank">NPC = fly</a> 
+  <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/e5711c0947abd8d9022053103ca304b837d5762c/insects/npcs/flynpc.html" target="_blank">NPC = fly</a> 
 <BR>
 <H4>Mammals</H4>
   <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/817b05f2479929cdfb8f6cf428c72f0b7e07fed1/mammals/champion/foxchampion.html" target="_blank">Champion =  Fox</a> 
