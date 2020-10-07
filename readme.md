@@ -91,13 +91,13 @@ Players can use these conflicts as inspiration for more specific & believable pr
   <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/e5711c0947abd8d9022053103ca304b837d5762c/insects/npcs/flynpc.html" target="_blank">NPC = fly</a> 
 <BR>
 <H4>Mammals</H4>
-  <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/817b05f2479929cdfb8f6cf428c72f0b7e07fed1/mammals/champion/foxchampion.html" target="_blank">Champion =  Fox</a> 
+  <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/d3d646a38c6330d34005c9a18aeaa15d9a2a04ee/mammals/champion/foxchampion.html" target="_blank">Champion =  Fox</a> 
 <BR>
   <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/f7bb5a8a34ea704b9a5618936fff5daaf25be07a/mammals/npcs/dognpc.html" target="_blank">NPC = Dog</a> 
 <BR>
   <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/f7bb5a8a34ea704b9a5618936fff5daaf25be07a/mammals/npcs/ratnpc.html" target="_blank">NPC =  Rat </a> 
 <BR>
-  <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/f7bb5a8a34ea704b9a5618936fff5daaf25be07a/mammals/npcs/horsenpc.html" target="_blank">NPC =  Horse</a> 
+  <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/537313117d9f8e24e9c4e9c2579ca797c632d300/mammals/npcs/horsenpc.html" target="_blank">NPC =  Horse</a> 
 <BR>
 <H4>Natural features</H4>
 <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/f60a093283c7a0e2374f8b12e9671736f3d7b718/naturalfeatures/champion/rivermerseychamp.html" target="_blank">Champion = River Mersey</a> 
