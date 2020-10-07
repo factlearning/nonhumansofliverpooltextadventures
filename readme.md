@@ -110,7 +110,7 @@ Players can use these conflicts as inspiration for more specific & believable pr
   <BR>
 <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/f60a093283c7a0e2374f8b12e9671736f3d7b718/naturalfeatures/npcs/evertonbrownpc.html">NPC = Everton Brow</a> 
 <BR>
-  <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/f60a093283c7a0e2374f8b12e9671736f3d7b718/naturalfeatures/npcs/beachnpc.html" target="_blank">NPC = The Beach</a>
+  <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/785797bcd52e073bcb9a0768a8ad78cec5c7eded/naturalfeatures/npcs/beachnpc.html" target="_blank">NPC = The Beach</a>
   <BR>
     <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/f60a093283c7a0e2374f8b12e9671736f3d7b718/naturalfeatures/npcs/quarrynaturalfeaturenpc.html" target="_blank">NPC = The Quarry</a>
     <BR>
