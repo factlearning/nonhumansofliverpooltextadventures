@@ -128,7 +128,7 @@ Players can use these conflicts as inspiration for more specific & believable pr
 <BR>
   <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/2f8152a856b75ae8acf3ac5b81efb06b164aa56e/plants/npcs/planetreenpc.html">NPC =  Plane Tree</a> 
 <BR>
-  <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/a4e9694be85b5b852a76ff43ac3e717da70f5a87/plants/npcs/planetreenpc.html" target="_blank">NPC =  Nettles</a> 
+  <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/4d593bed3ba975c6a3551fdc0a61cdafc5619562/plants/npcs/nettlesnpc.html" target="_blank">NPC =  Nettles</a> 
 <BR>
   <a href="https://rawcdn.githack.com/factlearning/nonhumansofliverpooltextadventures/a4e9694be85b5b852a76ff43ac3e717da70f5a87/plants/npcs/cabbagenpc.html" target="_blank">NPC =  Cabbage </a>
 <BR>
